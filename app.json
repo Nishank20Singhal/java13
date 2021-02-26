@@ -1,0 +1,6 @@
+{
+    "name": "Spring Form Demo",
+    "description": "A simple demo of Sring MVC setup with embeded tomcat to run on PAAS such as Heroku.",
+    "repository": "https://github.com/AravindVasudev/SpringFormDemo",
+    "keywords": ["Spring MVC", "tomcat"]
+}
